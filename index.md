@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# ```SELF-BOT```
+<p align="center">
+<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphab0t12/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphab0t12?color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphab0t12/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphab0t12?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphab0t12/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Alphab0t12?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphab0t12"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/zeeoneofc/Alphab0t12/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphab0t12?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphab0t12&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/zeeoneofc/Alphab0t12/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
 
-You can use the [editor on GitHub](https://github.com/akomalifour/akomalifour.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+-------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## `ADD BUILDPACK`
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+> heroku/nodejs
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## `CHANGE SESSION`
 
-### Jekyll Themes
+[`Click Here`](https://github.com/zeeoneofc/Alphab0t12/blob/master/session.json#L1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akomalifour/akomalifour.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## `SETTING`
 
-### Support or Contact
+- Owner number [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
+- Owner name [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
+- Botname [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## `CHANGE DYNO`
+
+Off in web nya
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+</p>
+
+## ```HOW TO DEPLOY```
+
+[`Click Here For Tutorial`](https://youtu.be/5HgB__wARjM)<br>
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+</p>
+
+
+## ```COFFEE```
+
+- [`SAWERIA`](https://saweria.co/zeeoneofc)
+
+## ```GROUP SUPPORT```
+
+- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
+- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
+- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+
+## `THANKS TO`
+
+- Allah SWT.
+- My parents
+- All Friends
+- All Contributors
+- All Creator Bot
